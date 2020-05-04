@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodAPI", "FoodAPI\FoodAPI.csproj", "{D8710BC8-9C9C-463C-8FF5-D50BFC1D3A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodModel", "FoodModel\FoodModel.csproj", "{36DAA851-ED0F-4143-982D-39C3BDE9420D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodClient", "FoodClient\FoodClient.csproj", "{F153BFBD-3E4C-4B82-B9B6-6DF26FAB141B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8710BC8-9C9C-463C-8FF5-D50BFC1D3A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8710BC8-9C9C-463C-8FF5-D50BFC1D3A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8710BC8-9C9C-463C-8FF5-D50BFC1D3A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8710BC8-9C9C-463C-8FF5-D50BFC1D3A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DAA851-ED0F-4143-982D-39C3BDE9420D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DAA851-ED0F-4143-982D-39C3BDE9420D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DAA851-ED0F-4143-982D-39C3BDE9420D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DAA851-ED0F-4143-982D-39C3BDE9420D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F153BFBD-3E4C-4B82-B9B6-6DF26FAB141B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F153BFBD-3E4C-4B82-B9B6-6DF26FAB141B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F153BFBD-3E4C-4B82-B9B6-6DF26FAB141B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F153BFBD-3E4C-4B82-B9B6-6DF26FAB141B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147C412A-9F98-443B-A168-A8481694E5F3}
+	EndGlobalSection
+EndGlobal
