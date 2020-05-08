@@ -4,7 +4,7 @@
 
 This is a demo of a basic Web API and a client.
 
-This project has 3 parts:
+This project has 4 parts:
 
 <ul>
   <li><b>ASP .NET Web API:</b> This is a RESTfull API. It bridges between the data model and the oustide world, allowing the users to access it. </li>
